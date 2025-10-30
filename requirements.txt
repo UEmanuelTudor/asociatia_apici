@@ -1,0 +1,35 @@
+Lista de Updates pentru Versiunea a 2-a a Site-ului
+===================================================
+- scoate video ul
+- legislatia trebuie pastrata
+- adauga sub voluntari asta
+COLABORAM CU AVOCATI IN SPRIJINUL COPIILOR 
+Avem colaboratori avocați specializați în dreptul copiilor, care ne sprijină constant. Ei ne ajută să îndeplinim misiunea de a proteja și susține copiii, asigurându-le drepturile și bunăstarea
+- - schimba titlu
+- schimba fav icon
+- adauga pagina pentru motivul ajutorului
+- adauga link catre video pe youtube la sprijinim viitorul comunitati
+- adauga pagina pentru ultimele noastre proiecte
+- adauga link la fiecare membru al echipei din asocitie
+- de sters new&updates ce spun bosi
+- vezi daca nu se poate face un sistem de plata cumva integrat
+- schimba la contactatine la 12345
+- schimba la statistici la footer
+- adauga functionalitatea cand dai pe numele emailului sa iti deschida direct aplicatie sa dai email
+- la blog adauga postare
+- la proiecte adauga proiecte
+- vezi un sistem de admin sa poata adauga blog uri noi de bosi
+- vezi cu domeniul ce faci cum ii de la acela
+
+
+
+
+- adauga functionalitate la butoanele cisteste mai mult din sectiunea despre noi
+- adauga sectiunea transparenta
+- cautarea unui sistem de donatii
+- newsletter pentru abonati ? intreaba pe Serban daca isi doreste asta
+- adauga optimizare seo
+- adauga calendar al evenimentelor asociatiei? intreaba pe Serban daca isi doreste
+- adauga multilingvism cu google
+- adauga functionalitatea de citeste mai mult la ultimele noastre proiecte din acasa
+- adauga la despre noi o sectiune cu cine este Robert Serban?
