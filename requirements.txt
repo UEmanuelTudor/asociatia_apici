@@ -1,18 +1,15 @@
-Lista de Updates pentru Versiunea a 2-a a Site-ului
+Lista de cerințe:
 ===================================================
-- scoate video ul
-- legislatia trebuie pastrata
-- adauga sub voluntari asta
-COLABORAM CU AVOCATI IN SPRIJINUL COPIILOR 
-Avem colaboratori avocați specializați în dreptul copiilor, care ne sprijină constant. Ei ne ajută să îndeplinim misiunea de a proteja și susține copiii, asigurându-le drepturile și bunăstarea
-- - schimba titlu
-- schimba fav icon
-- adauga pagina pentru motivul ajutorului
-- adauga link catre video pe youtube la sprijinim viitorul comunitati
-- adauga pagina pentru ultimele noastre proiecte
-- adauga link la fiecare membru al echipei din asocitie
+AVEM NEVOIE DE LEGISLATIE DE LA BAIETI- legislatia trebuie pastrata
+BACKLOG- adauga sub voluntari asta
+    COLABORAM CU AVOCATI IN SPRIJINUL COPIILOR 
+    Avem colaboratori avocați specializați în dreptul copiilor, care ne sprijină constant. Ei ne ajută să îndeplinim misiunea de a proteja și susține copiii, asigurându-le drepturile și bunăstarea
+IN PROGRESS - schimba titlu
+IN PROGRESS - schimba fav icon
+BACKLOG- adauga pagina pentru motivul ajutorului
+AM NEVOIE DE LINK DE LA BAIETI- inlocuieste video cu unul de pe youtube la sprijinim viitorul comunitati
+AVEM NEVOIE DE LINK-URI DE LA BAIETI- adauga link la fiecare membru al echipei din asocitie
 - de sters new&updates ce spun bosi
-- vezi daca nu se poate face un sistem de plata cumva integrat
 - schimba la contactatine la 12345
 - schimba la statistici la footer
 - adauga functionalitatea cand dai pe numele emailului sa iti deschida direct aplicatie sa dai email
@@ -26,8 +23,7 @@ Avem colaboratori avocați specializați în dreptul copiilor, care ne sprijină
 
 - adauga functionalitate la butoanele cisteste mai mult din sectiunea despre noi
 - adauga sectiunea transparenta
-- cautarea unui sistem de donatii
-- newsletter pentru abonati ? intreaba pe Serban daca isi doreste asta
+- cautarea unui sistem de donatii - - vezi daca nu se poate face un sistem de plata cumva integrat- newsletter pentru abonati ? intreaba pe Serban daca isi doreste asta
 - adauga optimizare seo
 - adauga calendar al evenimentelor asociatiei? intreaba pe Serban daca isi doreste
 - adauga multilingvism cu google
